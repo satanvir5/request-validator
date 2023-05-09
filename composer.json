@@ -1,6 +1,6 @@
 {
     "name": "tanvir/validator",
-    "description": "A Laravel package that provides an easy-to-use interface to convert PDF files to images using the Imagick PHP extension.",
+    "description": "A PHP package that allows you to handling form request validation.",
     "keywords": [
         "validator",
         "tanvir",
