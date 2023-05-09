@@ -1,9 +1,9 @@
 {
-    "name": "tanvir/validator",
+    "name": "satanvir/validator",
     "description": "A PHP package that allows you to handling form request validation.",
     "keywords": [
         "validator",
-        "tanvir",
+        "satanvir",
         "php",
         "laravel"
     ],
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Tanvir\\Validator\\": "src"
+            "Satanvir\\Validator\\": "src"
         }
     },
     "extra": {

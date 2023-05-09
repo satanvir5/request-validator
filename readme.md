@@ -13,7 +13,7 @@ A PHP package that allows you to handling form request validation.
 You can install the package via composer:
 
 ```bash
-composer require tanvir/validator
+composer require satanvir/validator
 ```
 
 
@@ -23,7 +23,7 @@ composer require tanvir/validator
 Here's an example of how to use this Validator package for validating input reques: 
 
 ```php
-use Tanvir\Validator\Validator;
+use Satanvir\Validator\Validator;
 
 $validator = new Validator($config); // Validator(array $config = [])
 ```

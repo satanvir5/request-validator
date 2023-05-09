@@ -1,6 +1,6 @@
 <?php
 
-namespace Tanvir\Validator;
+namespace Satanvir\Validator;
 
 use DateTime;
 
