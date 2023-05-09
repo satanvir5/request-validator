@@ -76,7 +76,7 @@ $validator->validate(); // Validator::validate(): self
 ### Check: Validation has failed
 
 ```php
-if ($validation->fails()) {
+if ($validator->fails()) {
 // do something
 }
 // Validator::fails(): bool
@@ -88,7 +88,7 @@ if ($validation->fails()) {
 
 ```php
 
-if ($validation->passed()) {
+if ($validator->passed()) {
 // do something
 }
 // Validator::passed(): bool
